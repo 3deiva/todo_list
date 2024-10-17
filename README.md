@@ -1,16 +1,7 @@
-# todolist
+![WhatsApp Image 2024-10-17 at 23 49 23_c8053d21](https://github.com/user-attachments/assets/7493abf8-36f9-4d9f-813b-c9688a0981ba)
 
-A new Flutter project.
+![WhatsApp Image 2024-10-17 at 23 49 24_81690958](https://github.com/user-attachments/assets/44827424-1d3a-4455-98f3-ca4c93c966c1)
 
-## Getting Started
+![WhatsApp Image 2024-10-17 at 23 49 24_e2bbae19](https://github.com/user-attachments/assets/1f73c51e-75cd-449e-a2ac-3a0c8864ac3a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
